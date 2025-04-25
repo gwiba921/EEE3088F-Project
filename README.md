@@ -41,5 +41,3 @@ All of this must be done while maintaining modular compatibility with the rest o
 
 ---
 
-## 📁 Project Structure
-
